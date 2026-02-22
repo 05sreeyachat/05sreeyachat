@@ -45,7 +45,6 @@ Aspiring Penetration Tester & Security Architect
     alt="gmail" width="45" height="45"/>
   </a>
 </p>
----
 
 <p align="center">
 Building systems that attackers hate.
