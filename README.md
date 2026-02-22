@@ -28,17 +28,11 @@ Aspiring Penetration Tester & Security Architect
 #### 🛠️ Backend
 `Flask` `SQLite` `MongoDB`
 
----
 
-<p align="center">
-Building systems that attackers hate.
-</p>
-
----
 
 ### 📫 Contact Me
 
-<p align="left">
+<p align="centre">
   <a href="https://www.linkedin.com/in/sreeya-chatterjee" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
     alt="linkedin" width="40" height="40"/>
@@ -51,3 +45,11 @@ Building systems that attackers hate.
     alt="gmail" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+Building systems that attackers hate.
+</p>
+
+---
