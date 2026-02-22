@@ -46,5 +46,5 @@ Aspiring Penetration Tester & Security Architect
 <br>
 
 <p align="center">
-<i>breaking into things... ethically</i>
+<i>Building systems that attackers hate.</i>
 </p>
