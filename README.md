@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Sreeya Chatterjee</h1>
 
-<!--
-**05sreeyachat/05sreeyachat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+"Breaking into things... ethically"
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Aspiring Penetration Tester & Security Architect
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+    
+- 🔍 Passionate about Secure Authentication Systems    
+- 🌍 Aspiring to become a Penetration Tester  
+
+---
+
+### ⚙️ Technologies I Work With
+
+#### 🧑‍💻 Languages
+`Python` `Java`
+
+#### 🔐 Security Tools
+`Kali Linux` `Metasploit` `Burp Suite` `Wireshark` `Nmap`
+
+#### 🛠️ Backend
+`Flask` `SQLite` `MongoDB`
+
+---
+
+<p align="center">
+⚡ building systems that attackers hate ⚡
+</p>
