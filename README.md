@@ -32,8 +32,8 @@ Aspiring Penetration Tester & Security Architect
 
 ### 📫 Contact Me
 
-<p align="center">
-  <table align="center">
+<p align="left">
+  <table align="left">
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/sreeya-chatterjee" target="_blank">
@@ -41,7 +41,7 @@ Aspiring Penetration Tester & Security Architect
         </a>
       </td>
       <td width="40"></td>
-      <td align="center">
+      <td align="left">
         <a href="mailto:chatterjeesreeya@gmail.com" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
         </a>
