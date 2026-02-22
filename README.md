@@ -50,6 +50,8 @@ Aspiring Penetration Tester & Security Architect
   </table>
 </p>
 
+---
+
 <p align="center">
 Building systems that attackers hate.
 </p>
