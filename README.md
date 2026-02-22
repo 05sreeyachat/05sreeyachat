@@ -31,5 +31,5 @@ Aspiring Penetration Tester & Security Architect
 ---
 
 <p align="center">
-⚡ building systems that attackers hate ⚡
+Building systems that attackers hate.
 </p>
