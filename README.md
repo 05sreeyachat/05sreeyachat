@@ -32,7 +32,7 @@ Aspiring Penetration Tester & Security Architect
 
 ### 📫 Contact Me
 
-<p align="centre">
+<p align="center">
   <a href="https://www.linkedin.com/in/sreeya-chatterjee" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
     alt="linkedin" width="40" height="40"/>
