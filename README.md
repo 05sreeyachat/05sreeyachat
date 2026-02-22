@@ -33,14 +33,11 @@ Aspiring Penetration Tester & Security Architect
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align:middle;"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28"/>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank" style="display:inline-block; margin-left:12px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" style="vertical-align:middle;"/>
   </a>
 </p>
 
