@@ -33,17 +33,21 @@ Aspiring Penetration Tester & Security Architect
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sreeya-chatterjee" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-    alt="linkedin" width="45" height="45"/>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:chatterjeesreeya@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-    alt="gmail" width="45" height="45"/>
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/sreeya-chatterjee" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+        </a>
+      </td>
+      <td width="40"></td>
+      <td align="center">
+        <a href="mailto:chatterjeesreeya@gmail.com" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
